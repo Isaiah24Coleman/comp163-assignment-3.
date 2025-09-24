@@ -1,5 +1,5 @@
 # comp163-assignment-3.
-git add Isaiah24Coleman_assignment_3.py
+python Isaiah24Coleman_assignment_3.py
 git commit -m "Pass Test Case 1: Initial game setup with required variables"
 git add Isaiah24Coleman_assignment_3.py
 git commit -m "Pass Test Case 2: Course planning with if/elif/else and comparison operators"
