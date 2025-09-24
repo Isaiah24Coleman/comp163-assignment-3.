@@ -1,6 +1,6 @@
 # comp163-assignment-3.
 Welcome to **College Simulator**! This interactive Python game puts you in the shoes of a college student navigating the challenges of course selection, studying, social life, and stress management. Your decisions determine your academic success, social standing, and overall well-being.
-python Isaiah24Coleman_assignment_3.py
+
 
 #Branching explained:
 This game uses **branching logic** in multiple ways:
@@ -28,6 +28,7 @@ Used co- pliot and chat gpt just to look over my code, i did my code with
 my upswing tutor where we got all the code to run. I spent most of my ai time 
 figuring out how to use my github
 
+python Isaiah24Coleman_assignment_3.py
 
 git commit -m "Pass Test Case 1: Initial game setup with required variables"
 git add Isaiah24Coleman_assignment_3.py
